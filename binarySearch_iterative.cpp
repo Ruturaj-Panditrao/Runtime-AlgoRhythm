@@ -47,3 +47,6 @@ int main()
     cout<<"Index Result for Binary Search for 3 : "<<binary_search(3,arr,5);
     // Binary Search Call for (Key,Array,Size of Array)
 }
+
+// Time Complexity : O(log N)
+// Space Complexity : O(1) 
