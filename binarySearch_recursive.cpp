@@ -21,3 +21,6 @@ int main()
     cout<<"Recursive Binary Search for 4 : "<<binary_search_recursive(1,arr,5,0,4);
     // Binary Search Call for (Key,Array,Size of Array,Start, End)
 }
+
+// Time Complexity : O(log N)
+// Auxiliary Space : O(log N)
